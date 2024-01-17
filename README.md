@@ -12,6 +12,12 @@
   * `Save` : permet de sauvegarder la voiture la plus performante dans le local storage du navigateur.
   * `Discard` : permet de supprimer la voiture sauvegardée dans le local storage du navigateur.
 
+## Exemple
+
+![self-driving-car](./data/example.png)
+
+Dans cet exemple, j'ai sauvegardé la meilleure voiture qui a réussi à passer le traffic.
+
 ## Auteur
 
 * **[ANRIFOU AMDJAD](https://github.com/Maxiwere45)**
