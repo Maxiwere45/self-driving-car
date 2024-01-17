@@ -20,6 +20,10 @@
 
 Dans cet exemple, j'ai sauvegardé la meilleure voiture qui a réussi à passer le traffic.
 
+* Animation :
+
+<img src="./data/example.gif" width="500" alt="animation">
+
 ## Auteur
 
 * **[ANRIFOU AMDJAD](https://github.com/Maxiwere45)**
