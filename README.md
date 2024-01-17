@@ -1,5 +1,7 @@
 # Self-driving-car
 
+<img src="./data/logo.png" width="250" alt="logo-project">
+
 * Catégorie : Projet personnel de développement des compétences
 
 **Self-driving-car** est un mini projet d'initiation en Machine Learning (Neural Network) fait en JS from scratch.
