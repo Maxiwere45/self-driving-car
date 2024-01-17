@@ -27,13 +27,13 @@ if (localStorage.getItem("bestBrain")) {
 
 
 const traffic =  [
-    new Car(road.getLaneCenter(1),-100,30,50, "DUMMY", 0.5),
-    new Car(road.getLaneCenter(0),-300,30,50, "DUMMY", 0.5),
-    new Car(road.getLaneCenter(2),-300,30,50, "DUMMY", 0.5),
-    new Car(road.getLaneCenter(0),-300,30,50, "DUMMY", 0.5),
-    new Car(road.getLaneCenter(1),-500,30,50, "DUMMY", 0.5),
-    new Car(road.getLaneCenter(1),-500,30,50, "DUMMY", 0.5),
-    new Car(road.getLaneCenter(2),-700,30,50, "DUMMY", 0.5),
+    new Car(road.getLaneCenter(1),-100,30,50, "DUMMY", 1),
+    new Car(road.getLaneCenter(0),-300,30,50, "DUMMY", 1),
+    new Car(road.getLaneCenter(2),-300,30,50, "DUMMY", 1),
+    new Car(road.getLaneCenter(0),-300,30,50, "DUMMY", 1),
+    new Car(road.getLaneCenter(1),-500,30,50, "DUMMY", 1),
+    new Car(road.getLaneCenter(1),-500,30,50, "DUMMY", 1),
+    new Car(road.getLaneCenter(2),-700,30,50, "DUMMY", 1),
 ];
 
 animate();

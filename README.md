@@ -16,7 +16,7 @@
 
 ## Exemple
 
-![self-driving-car](./data/example.png)
+<img src="./data/frame.png" width="500" alt="exemple">
 
 Dans cet exemple, j'ai sauvegardé la meilleure voiture qui a réussi à passer le traffic.
 
