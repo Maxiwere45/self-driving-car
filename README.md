@@ -1,8 +1,22 @@
 # Self-driving-car
 
-Lesson JS portant sur la création d'un mini jeu de voiture contrôlé par un réseau de neurone codé sans librairie externe
+* Catégorie : Projet personnel de développement des compétences
 
+**Self-driving-car** est un mini projet d'initiation en Machine Learning (Neural Network) fait en JS from scratch.
 
-# Crédits
+## Utilisation
 
-- FreeCodeCamp
+* Il suffit de lancer le fichier `index.html` dans un navigateur web et d'observer le résultat. 
+* Dans l'interface, se trouve à gauche l'affichage du réseau de neurones et à droite l'affichage de la voiture.
+* Au centre, sont présents 2 boutons : 
+  * `Save` : permet de sauvegarder la voiture la plus performante dans le local storage du navigateur.
+  * `Discard` : permet de supprimer la voiture sauvegardée dans le local storage du navigateur.
+
+## Auteur
+
+* **[ANRIFOU AMDJAD](https://github.com/Maxiwere45)**
+
+## crédits
+
+* **[FreeCodeCamp](https://www.freecodecamp.org/)**
+* **[Radu Mariescu-Istodor](https://github.com/gniziemazity)**
