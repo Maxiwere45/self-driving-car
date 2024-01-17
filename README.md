@@ -7,7 +7,7 @@
 ## Utilisation
 
 * Il suffit de lancer le fichier `index.html` dans un navigateur web et d'observer le résultat. 
-* Dans l'interface, se trouve à gauche l'affichage du réseau de neurones et à droite l'affichage de la voiture.
+* Dans l'interface, se trouve à droite l'affichage du réseau de neurones et à gauche l'affichage de la voiture.
 * Au centre, sont présents 2 boutons : 
   * `Save` : permet de sauvegarder la voiture la plus performante dans le local storage du navigateur.
   * `Discard` : permet de supprimer la voiture sauvegardée dans le local storage du navigateur.
