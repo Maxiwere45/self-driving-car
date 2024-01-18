@@ -10,7 +10,7 @@
 
 * Il suffit de lancer le fichier `index.html` dans un navigateur web et d'observer le résultat. 
 * Dans l'interface, se trouve à droite l'affichage du réseau de neurones et à gauche l'affichage de la voiture.
-* Au centre, sont présents 2 boutons : 
+* Au centre, sont présents 2 boutons :
   * `Save` : permet de sauvegarder la voiture la plus performante dans le local storage du navigateur.
   * `Discard` : permet de supprimer la voiture sauvegardée dans le local storage du navigateur.
 
@@ -22,7 +22,7 @@ Dans cet exemple, j'ai sauvegardé la meilleure voiture qui a réussi à passer 
 
 * Animation :
 
-<img src="./data/example.gif" width="500" alt="animation">
+<img src="./data/simulation.gif" width="500" alt="animation">
 
 ## Auteur
 
