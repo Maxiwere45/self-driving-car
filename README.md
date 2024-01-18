@@ -28,7 +28,7 @@ Dans cet exemple, j'ai sauvegardé la meilleure voiture qui a réussi à passer 
 
 * **[ANRIFOU AMDJAD](https://github.com/Maxiwere45)**
 
-## crédits
+## Crédits
 
 * **[FreeCodeCamp](https://www.freecodecamp.org/)**
 * **[Radu Mariescu-Istodor](https://github.com/gniziemazity)**
